@@ -1,3 +1,6 @@
+/*==================== Alert ====================*/
+alert('Site is still under progress 😊')
+
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu = document.getElementById('nav-menu'),
   navToggle = document.getElementById('nav-toggle'),
